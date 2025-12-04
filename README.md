@@ -1,9 +1,3 @@
-Here is a **clean, simple README.md** based on the PDF, followed by a short **project description** you can use anywhere.
-
----
-
-## **README.md**
-
 # **OnePiece OP – Technical Overview**
 
 OnePiece OP is a next-generation blockchain designed to solve real scalability, energy, and usability problems. It delivers high throughput, fast finality, strong security, and a user-friendly experience for global adoption.
@@ -18,7 +12,7 @@ OnePiece OP is a next-generation blockchain designed to solve real scalability, 
 * **Fair Tokenomics:** Dynamic inflation, fee burns, and staking rewards.
 * **User-First:** Zero-gas onboarding, social recovery, mobile-friendly design.
 
-### **Ecosystem Vision**
+### **Ecosystem Vision** </br>
 
 OnePiece OP aims to power remittances, micro-transactions, gaming, and global digital payments while staying decentralized, affordable, and developer-friendly.
 ---
